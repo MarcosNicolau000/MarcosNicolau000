@@ -2,7 +2,7 @@
 <h1 align="center"><b>Marcos Nicolau </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <br/>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F750&width=435&lines=Computer+Science+Student;Software+Developer;Front-End+Developer;Electronics+Technician" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F750&center=true&width=435&lines=Computer+Science+Student;Software+Developer;Front-End+Developer;Electronics+Technician" alt="Typing SVG" /></a>
 </p>
 
 ## 💫 Sobre:
